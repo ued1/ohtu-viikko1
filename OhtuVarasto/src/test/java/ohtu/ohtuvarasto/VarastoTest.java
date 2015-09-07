@@ -108,12 +108,11 @@ public class VarastoTest {
         assertEquals(5, varasto.otaVarastosta(6), vertailuTarkkuus);
     }
     
-    /*
     @Test
     public void rikkinainenTesti() {
         varasto.lisaaVarastoon(5);
         assertEquals(99, varasto.getSaldo(), vertailuTarkkuus);
     }
-    */
+    
 
 }
